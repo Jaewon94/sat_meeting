@@ -67,6 +67,7 @@ class Reciever implements Runnable {
 		} catch(NoSuchElementException e) {
 			System.out.println("프로그램 종료");
 		}
+		
 	} 	// end of run
 }
 
